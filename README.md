@@ -1,2 +1,1 @@
-# Coffee-Shop-sale\
-jh
+# Coffee-Shop-sale
